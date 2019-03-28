@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/bookeeping",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Bookeeping\\Providers\\BookeepingServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Bookeeping\\": ""
+        }
+    }
+}

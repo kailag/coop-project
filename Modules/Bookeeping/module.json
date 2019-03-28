@@ -1,0 +1,14 @@
+{
+    "name": "Bookeeping",
+    "alias": "bookeeping",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Bookeeping\\Providers\\BookeepingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
